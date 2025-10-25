@@ -47,16 +47,3 @@ The target variable, **Type**, denotes the **category of glass** (e.g., building
 | 6 | Headlamps |
 
 ---
-
-## ⚙️ Importing Libraries
-
-```python
-import pandas as pd  # Data Manipulation and Analysis
-import numpy as np  # Numerical Operations and Array Handling
-import seaborn as sn  # Enhanced Data Visualization
-import matplotlib.pyplot as plt  # Data Visualization
-
-# Enables inline plotting in Jupyter Notebook
-%matplotlib inline
-
-
